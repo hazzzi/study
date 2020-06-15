@@ -10,6 +10,21 @@
 - 쉘
   - 사용자와 커널의 의사소통 도구
 
+### 기본 명령어
+- [x] touch
+- [x] cat
+- [x] head
+- [x] tail
+- [x] grep
+- [x] mv
+- [x] rm
+- [x] find
+- [x] cp
+- [x] cd
+- [x] ls
+- [x] pwd
+- [x] mkdir
+
 #### 쉘
 - /etc/passwd
 
