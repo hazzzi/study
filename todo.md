@@ -6,3 +6,7 @@
 - [ ] rxjs 스터디
 - [ ] react - dragdrop 컴포넌트 정리
 - [ ] react - dropzone 컴포넌트 정리
+
+## 스터디
+- [ ] 운영체제 기초
+- [ ] 리눅스 쉘 스크립트
