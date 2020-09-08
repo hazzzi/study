@@ -51,3 +51,14 @@
 - 2> 에러를 리다이렉션함
 
 - 파이프를 사용하면 출력을 다른 명령어의 입력으로 보낼 수있음
+
+### 나중에 수정
+lsb_release -a : os 버전 보는 명령어
+
+|grep (명령어 찾아보기)
+
+centos : httpd
+ubuntu : apache2
+
+sudo service wildfly restart (서비스 재시작 -> outofMemory)
+tai
