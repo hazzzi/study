@@ -18,6 +18,3 @@
 
 - 그 외
   - git
-
-####
-[notion todo link]( https://www.notion.so/e08a5a1230914ef1b3630d64e1bae37f?v=7277d9df12d34a1687d8a42b2cd4104f)
