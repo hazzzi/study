@@ -59,3 +59,6 @@
 - 시간 복잡도: O(n log n) <= O <= O(n^2)
 
 - [참고 링크](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)
+
+## 병합 정렬(merge sort)
+- 배열을 앞부분과 뒷부분의 두 그룹으로 나누어 각각 정렬 후 병합
